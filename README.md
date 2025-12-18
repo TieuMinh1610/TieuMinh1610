@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif" alt="Profile Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif" alt="Profile Banner" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Lâm Tiểu Minh aka Charlington</h1>
