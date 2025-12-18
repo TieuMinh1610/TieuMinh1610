@@ -1,0 +1,29 @@
+<svg
+  width="560"
+  height="110"
+  viewBox="0 0 560 110"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <!-- Background -->
+  <rect
+    x="0"
+    y="0"
+    width="560"
+    height="110"
+    rx="14"
+    fill="#1a1b26"
+  />
+
+  <!-- Quote text -->
+  <text
+    x="28"
+    y="68"
+    fill="#7dcfff"
+    font-size="20"
+    font-family="Segoe UI, Arial, sans-serif"
+  >
+    All that you are is all that I’ll ever need
+  </text>
+
+</svg>
