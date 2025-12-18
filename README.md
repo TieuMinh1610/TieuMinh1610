@@ -46,11 +46,10 @@ IT Student • Aspiring Full-stack Software Engineer (ReactJS, .NET, PHP)
 
 ## Quote of the day
 
-<p>
+<p align="center">
   <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    src="https://quotes-github-readme.vercel.app/api?quote=All%20that%20you%20are%20is%20all%20that%20I%E2%80%99ll%20ever%20need&theme=tokyonight"
     alt="Dev Quote"
   />
-  <i>" All that you are is all that i'll ever need."</i>
 </p>
 
