@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif" alt="Profile Banner" width="50%" />
+  <img src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg" alt="Profile Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Lâm Tiểu Minh aka Charlington</h1>
-<h3 align="center">
+<h1>Hi 👋, I'm Lâm Tiểu Minh aka Charlington</h1>
+<h3>
 IT Student • Aspiring Full-stack Software Engineer (ReactJS, .NET, PHP)
 </h3>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 Final-year **Information Technology** student at  
   **Ho Chi Minh City University of Education (HCMUE)** (2022 – 2026)
@@ -20,9 +20,7 @@ IT Student • Aspiring Full-stack Software Engineer (ReactJS, .NET, PHP)
 
 ---
 
-## 🛠️ Skills
-
-### 💻 Programming & Frameworks
+##  Skills
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -38,18 +36,17 @@ IT Student • Aspiring Full-stack Software Engineer (ReactJS, .NET, PHP)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TieuMinh1610&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Dev Quote
+## Quote of the day
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i><br/>
-  — John Johnson
+<p>
+  <i>" All that you are is all that i'll ever need."</i>
 </p>
 
